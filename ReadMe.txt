@@ -1,3 +1,3 @@
-#Conway's Game Of Life#
+# Conway's Game Of Life#
 
-###This project is a console application that plays the zero player game "Conway's Game of Life." 
+### This project is a console application that plays the zero player game "Conway's Game of Life." 
